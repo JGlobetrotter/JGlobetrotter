@@ -1,4 +1,4 @@
-## Sustainability, Human Rights, Governance, International Development 👋
+## Sustainability, Human Rights, Governance, International Development
 
 I'm Joelle, a global consultant. 
 
