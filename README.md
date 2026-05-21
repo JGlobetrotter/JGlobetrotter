@@ -9,3 +9,9 @@ I build python-based tools for sustainability in business, human rights, organiz
 - 💬Product Website: navivisignal.app
 - 💬Consulting Website: jmpetrus.com
 - 📫 How to reach me: hello@navisignal.app
+
+
+
+
+<script src="https://navisignal.kit.com/commerce.js" async defer></script>
+<a class="convertkit-button" href="https://navisignal.kit.com/products/navisignal?step=checkout" data-commerce>Buy my product</a>
