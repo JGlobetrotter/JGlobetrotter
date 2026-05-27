@@ -13,4 +13,9 @@ I build python-based tools for sustainability in business, human rights, organiz
 
 
 
+Note: All Rights Reserved. Licensing requires permission unless explicitly noted in my repositories.
+
+
+
+
 
